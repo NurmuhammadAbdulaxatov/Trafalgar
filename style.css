@@ -1,0 +1,259 @@
+body {
+  background-color: rgb(250, 250, 250);
+}
+
+.navbar {
+  display: flex;
+  margin-top: 135px;
+  height: 90px;
+}
+
+.navbar-text {
+  margin-left: 280px;
+  margin-top: 40px;
+  width: 600px;
+  height: 50px;
+  display: flex;
+}
+
+.trafalgar-logo {
+  margin-top: 40px;
+  margin-left: 237px;
+}
+
+li {
+  list-style-type: none;
+  display: inline-block;
+  margin-left: 15px;
+  font-family: mulish;
+  color: grey;
+}
+
+.home {
+  font-family: mulish;
+  font-weight: bold;
+  color: black;
+}
+
+.virtual {
+  font-family: Mulish;
+  font-weight: 700;
+  font-size: 41px;
+  margin-right: 18px;
+}
+
+.main-virtual1 {
+  width: 1300px;
+  height: 700px;
+  padding-top: 233.333px;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.main-virtual {
+  width: 445px;
+  height: 338px;
+  margin-left: 219px;
+}
+
+.info {
+  font-family: mulish;
+  color: gray;
+  margin-top: 37px;
+}
+
+.bottom {
+  background: #458ff6;
+  color: white;
+  width: 200px;
+  height: 56px;
+  border-radius: 25px;
+  margin-top: 74px;
+  padding-left: 95px;
+  display: flex;
+}
+
+.bottom-text {
+  font-family: mulish;
+  color: white;
+}
+
+.paragraf {
+  font-family: mulish;
+  font-weight: 700;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 300px;
+}
+
+.small-thik {
+  background: #000000;
+  width: 46px;
+  height: 3px;
+  border-radius: 20px;
+  margin-left: 640px;
+}
+
+.under-text {
+  font-family: mulish;
+  color: grey;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+/* 
+.main-div {
+    display: flex;
+} */
+
+.lupa {
+  width: 91px;
+  height: 90px;
+  margin-top: 40px;
+  margin-left: 25px;
+}
+
+.bonka {
+  width: 61px;
+  height: 85px;
+  margin-top: 40px;
+  margin-left: 25px;
+}
+
+.daftar {
+  width: 61px;
+  height: 85px;
+  margin-top: 40px;
+  margin-left: 25px;
+}
+
+.analiz {
+  width: 61px;
+  height: 85px;
+  margin-top: 40px;
+  margin-left: 25px;
+}
+
+.aptechka {
+  width: 80px;
+  height: 71px;
+  margin-top: 40px;
+  margin-left: 25px;
+}
+
+.group {
+  width: 69px;
+  height: 95px;
+  margin-top: 40px;
+  margin-left: 25px;
+}
+
+.box-1 {
+  background-color: #ffffff;
+  width: 300px;
+  height: 304px;
+  border-radius: 15px;
+  box-shadow: 15px 15px rgb(239, 239, 239);
+  margin-left: 180px;
+  margin-top: 80px;
+}
+.box-2 {
+  background-color: #ffffff;
+  width: 300px;
+  height: 304px;
+  border-radius: 15px;
+  box-shadow: 15px 15px rgb(239, 239, 239);
+  margin-left: 40px;
+  margin-top: 80px;
+}
+.box-3 {
+  background-color: #ffffff;
+  width: 300px;
+  height: 304px;
+  border-radius: 15px;
+  box-shadow: 15px 15px rgb(239, 239, 239);
+  margin-left: 40px;
+  margin-top: 80px;
+}
+.box-4 {
+  background-color: #ffffff;
+  width: 300px;
+  height: 304px;
+  border-radius: 15px;
+  box-shadow: 15px 15px rgb(239, 239, 239);
+  margin-left: 180px;
+  margin-top: 80px;
+}
+.box-5 {
+  background-color: #ffffff;
+  width: 300px;
+  height: 304px;
+  border-radius: 15px;
+  box-shadow: 15px 15px rgb(239, 239, 239);
+  margin-left: 40px;
+  margin-top: 80px;
+}
+.box-6 {
+  background-color: #ffffff;
+  width: 300px;
+  height: 304px;
+  border-radius: 15px;
+  box-shadow: 15px 15px rgb(239, 239, 239);
+  margin-left: 40px;
+  margin-top: 80px;
+}
+
+.box-main1 {
+  display: flex;
+}
+
+.box-main2 {
+  display: flex;
+}
+
+.ism {
+  font-family: mulish;
+  font-weight: 700;
+  font-size: 20px;
+  margin-left: 28px;
+}
+
+.ism1 {
+  font-family: mulish;
+  font-weight: 700;
+  font-size: 20px;
+  margin-left: 28px;
+  margin-top: 40px;
+}
+
+.ism2 {
+  font-family: mulish;
+  font-weight: 700;
+  font-size: 20px;
+  margin-left: 28px;
+  margin-top: 31px;
+}
+
+.under-text1 {
+  font-family: mulish;
+  color: grey;
+  text-align: left;
+  margin-left: 28px;
+}
+
+.learn {
+  border: 1.4px solid #458ff6;
+  background-color: white;
+  width: 150px;
+  height: 46px;
+  border-radius: 50px;
+  margin-left: 590px;
+  margin-top: 15px;
+}
+
+.more {
+  font-family: mulish;
+  color: #458ff6;
+  text-align: center;
+  margin-top: 13px;
+}
